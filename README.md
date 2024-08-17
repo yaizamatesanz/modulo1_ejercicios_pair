@@ -1,8 +1,8 @@
-Módulo 1: Ejercicios de Pair Programming - Python
+#Módulo 1: Ejercicios de Pair Programming - Python
 
 Este repositorio contiene los ejercicios realizados en el pair programming durante el Módulo 1 del curso de Data Analytics de Adalab.
 
-Lecciones
+##Lecciones
 1. Lección 1: Variables
 2. Lección 2: Listas y Tuplas
 3. Lección 3: Diccionarios y Sets
